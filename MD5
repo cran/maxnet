@@ -1,4 +1,4 @@
-0d2ea99c3ce6c0cfeaee90524801d6c2 *DESCRIPTION
+2b837427b32ae30ad903f6423588e7f2 *DESCRIPTION
 647c3da237fb33ee8bfa84337d7250e9 *LICENSE
 3e3a91a387434cae65abcff42cba04ac *NAMESPACE
 dc4580faf21895654550fce43c932296 *NEWS.md
@@ -7,7 +7,7 @@ e68f571f67610cd3314e700a32d8afac *R/categoricalval.R
 bef5dc4e35646907f004387a26f4a737 *R/data.R
 910564f66b072a8e09dbb0597c398055 *R/hinge.R
 2902c6ec58f78af1fd12ec83e6db080c *R/hingeval.R
-7fbf6fabe232baa1923bead33167694f *R/maxnet.R
+dc5666869a5fac5eca3bbc4cbb67e6fc *R/maxnet.R
 6eb6cbbb5689130f5e94010fa026cdd1 *R/maxnet.default.regularization.R
 05aa6f3586d566ccc842247e2d67513d *R/maxnet.formula.R
 3dca2d0753cf1b9e0486f7e8c17f1659 *R/plot.maxnet.R
