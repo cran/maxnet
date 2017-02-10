@@ -1,7 +1,7 @@
-2b837427b32ae30ad903f6423588e7f2 *DESCRIPTION
+e244af2c40a1161ee8d541ea8e248005 *DESCRIPTION
 647c3da237fb33ee8bfa84337d7250e9 *LICENSE
 3e3a91a387434cae65abcff42cba04ac *NAMESPACE
-dc4580faf21895654550fce43c932296 *NEWS.md
+647717b669106bd287c4b53e6833d911 *NEWS.md
 3ed2ae5e5171d11c371e91da51793230 *R/categorical.R
 e68f571f67610cd3314e700a32d8afac *R/categoricalval.R
 bef5dc4e35646907f004387a26f4a737 *R/data.R
@@ -18,7 +18,7 @@ d3c0be80561f5daede08b7a84da96e4d *R/thresholdval.R
 db97b22072079bf23648cf62462440c2 *README.md
 4ee46016500b7e56be84cab4b936d2a1 *data/bradypus.rda
 4d963fec72e21d3c142adf8fdf18c241 *man/bradypus.Rd
-21ae1df838dc29f2bbea4e028f17c714 *man/hinge.Rd
+8c68743fc6116d8c9822742b22cc5e5e *man/hinge.Rd
 a6e501b1804cdef86a03fa083ab61e53 *man/maxnet-package.Rd
 3c104de40ca45b803ac084f5fd665bc5 *man/maxnet.Rd
 6a4e1a069286ea04b0df9f531483e06e *man/plot.maxnet.Rd
