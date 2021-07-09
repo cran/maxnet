@@ -1,8 +1,8 @@
 Package: maxnet
 Type: Package
 Title: Fitting 'Maxent' Species Distribution Models with 'glmnet'
-Version: 0.1.2
-Date: 2017-02-03
+Version: 0.1.4
+Date: 2021-07-08
 Author: Steven Phillips
 Maintainer: Steven Phillips <mrmaxent@gmail.com>
 Imports: glmnet
@@ -10,7 +10,8 @@ Description: Procedures to fit species distributions models from occurrence reco
 License: MIT + file LICENSE
 URL: https://github.com/mrmaxent/maxnet
 RoxygenNote: 5.0.1
+LazyData: true
 NeedsCompilation: no
-Packaged: 2017-02-10 17:15:58 UTC; phillips
+Packaged: 2021-07-09 13:46:16 UTC; mrmax
 Repository: CRAN
-Date/Publication: 2017-02-11 00:22:19
+Date/Publication: 2021-07-09 14:10:02 UTC
